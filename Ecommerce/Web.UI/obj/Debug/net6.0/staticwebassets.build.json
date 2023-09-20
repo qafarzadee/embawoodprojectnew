@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UJHn/INKjzyGvbse+Z2mgXFushNtbM8gTP687aqk/YE=",
+  "Hash": "/nmxL6Le1a/objR6sWFdU1rf1bOlSUQJqIyAKwgi5Wg=",
   "Source": "Web.UI",
   "BasePath": "_content/Web.UI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web.UI\\wwwroot",
       "Source": "Web.UI",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\Account\\Templates\\Confirm.html",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\Account\\Templates\\Confirm.html",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "Account/Templates/Confirm.html",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Account\\Templates\\Confirm.html"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\Account\\Templates\\Reset.html",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\Account\\Templates\\Reset.html",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "Account/Templates/Reset.html",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\Account\\Templates\\Reset.html"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\css\\maps\\style.css.map",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/css/maps/style.css.map",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\css\\style.css",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\css\\style.css",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\OFL.txt",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\OFL.txt",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/OFL.txt",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.eot",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.eot",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Bold.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.ttf",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.ttf",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Bold.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.woff",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.woff",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Bold.woff",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.woff2",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.woff2",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Bold.woff2",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.eot",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.eot",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Regular.eot",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.ttf",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.ttf",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Regular.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.woff",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.woff",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Regular.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.woff2",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.woff2",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/fonts/PT_Sans/PTSans-Regular.woff2",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\fonts\\PT_Sans\\PTSans-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\.DS_Store",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\.DS_Store",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/.DS_Store",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_1.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_1.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/dashboard/img_1.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\dashboard\\img_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_2.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_2.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/dashboard/img_2.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\dashboard\\img_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_3.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_3.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/dashboard/img_3.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\dashboard\\img_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_4.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\dashboard\\img_4.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/dashboard/img_4.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\dashboard\\img_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\embawood_logo.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\embawood_logo.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/embawood_logo.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\embawood_logo.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face1.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face10.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face11.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face12.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face13.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face14.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face15.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face16.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face17.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face18.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face19.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face2.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face20.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face21.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face22.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face23.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face24.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face25.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face26.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face27.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face3.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face4.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face5.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face6.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face7.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face8.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces\\face9.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-1.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-1.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces-clipart/pic-1.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces-clipart\\pic-1.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-2.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-2.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces-clipart/pic-2.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces-clipart\\pic-2.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-3.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-3.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces-clipart/pic-3.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces-clipart\\pic-3.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-4.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\faces-clipart\\pic-4.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/faces-clipart/pic-4.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\faces-clipart\\pic-4.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\favicon.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\favicon.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/favicon.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\logo.svg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\logo.svg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/logo.svg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\logo-mini.svg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/logo-mini.svg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\samples\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\samples\\lockscreen-bg.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/samples/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\samples\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\samples\\Login_bg.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\samples\\Login_bg.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/samples/Login_bg.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\samples\\Login_bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\samples\\Login_bg2.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\images\\samples\\Login_bg2.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/images/samples/Login_bg2.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\images\\samples\\Login_bg2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\18a09c34-06f3-45ff-bfc5-f68f5f1f0067_metbex.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\18a09c34-06f3-45ff-bfc5-f68f5f1f0067_metbex.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/18a09c34-06f3-45ff-bfc5-f68f5f1f0067_metbex.jfif",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\18a09c34-06f3-45ff-bfc5-f68f5f1f0067_metbex.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\263fa372-01ce-41d4-9f8e-ef4eae5b6712_metbex.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\263fa372-01ce-41d4-9f8e-ef4eae5b6712_metbex.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/263fa372-01ce-41d4-9f8e-ef4eae5b6712_metbex.jfif",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\263fa372-01ce-41d4-9f8e-ef4eae5b6712_metbex.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\29077cd7-75c5-44fd-8910-926993acb426_Screenshot (17).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\29077cd7-75c5-44fd-8910-926993acb426_Screenshot (17).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/29077cd7-75c5-44fd-8910-926993acb426_Screenshot (17).png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\29077cd7-75c5-44fd-8910-926993acb426_Screenshot (17).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\3af66da7-3b4d-4452-98fa-f439b5a2ea45_qonaq1.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\3af66da7-3b4d-4452-98fa-f439b5a2ea45_qonaq1.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/3af66da7-3b4d-4452-98fa-f439b5a2ea45_qonaq1.jfif",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\3af66da7-3b4d-4452-98fa-f439b5a2ea45_qonaq1.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\47253293-84af-40e3-9b18-9d015439b7a9_Screenshot (11).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\47253293-84af-40e3-9b18-9d015439b7a9_Screenshot (11).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/47253293-84af-40e3-9b18-9d015439b7a9_Screenshot (11).png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\47253293-84af-40e3-9b18-9d015439b7a9_Screenshot (11).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\4dfc9172-6e6c-469c-bf40-21b45094ee85_Screenshot (12).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\4dfc9172-6e6c-469c-bf40-21b45094ee85_Screenshot (12).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/4dfc9172-6e6c-469c-bf40-21b45094ee85_Screenshot (12).png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\4dfc9172-6e6c-469c-bf40-21b45094ee85_Screenshot (12).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\53544be3-5d3c-4d96-a399-ae4242974969_Screenshot (11).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\53544be3-5d3c-4d96-a399-ae4242974969_Screenshot (11).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/53544be3-5d3c-4d96-a399-ae4242974969_Screenshot (11).png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\53544be3-5d3c-4d96-a399-ae4242974969_Screenshot (11).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\583688bb-2173-440e-8de1-65c622b67e54_yataq2.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\583688bb-2173-440e-8de1-65c622b67e54_yataq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/583688bb-2173-440e-8de1-65c622b67e54_yataq2.jfif",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\583688bb-2173-440e-8de1-65c622b67e54_yataq2.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6ab6b929-b1a6-4a7f-a616-7134b82f9814_metbex.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6ab6b929-b1a6-4a7f-a616-7134b82f9814_metbex.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/6ab6b929-b1a6-4a7f-a616-7134b82f9814_metbex.jfif",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\6ab6b929-b1a6-4a7f-a616-7134b82f9814_metbex.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6d144d29-8adb-409b-8c38-fc0ff30cc42e_yataq2.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6d144d29-8adb-409b-8c38-fc0ff30cc42e_yataq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/6d144d29-8adb-409b-8c38-fc0ff30cc42e_yataq2.jfif",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\6d144d29-8adb-409b-8c38-fc0ff30cc42e_yataq2.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6e22d79b-9148-495f-82cf-e78dd29c33c5_yataq2.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6e22d79b-9148-495f-82cf-e78dd29c33c5_yataq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/6e22d79b-9148-495f-82cf-e78dd29c33c5_yataq2.jfif",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\6e22d79b-9148-495f-82cf-e78dd29c33c5_yataq2.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6ebedc29-8ced-4e03-b6ad-dece57ed0290_Screenshot (15).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\6ebedc29-8ced-4e03-b6ad-dece57ed0290_Screenshot (15).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/6ebedc29-8ced-4e03-b6ad-dece57ed0290_Screenshot (15).png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\6ebedc29-8ced-4e03-b6ad-dece57ed0290_Screenshot (15).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\77f6e4d9-529a-4a86-a94b-f3ca97ea864b_yataq3.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\77f6e4d9-529a-4a86-a94b-f3ca97ea864b_yataq3.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/77f6e4d9-529a-4a86-a94b-f3ca97ea864b_yataq3.jfif",
       "AssetKind": "All",
@@ -1190,10 +1190,27 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\77f6e4d9-529a-4a86-a94b-f3ca97ea864b_yataq3.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\881c5b75-ecbe-4dd8-a192-1abe4d38071e_Screenshot (16).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\7815c371-f796-4d6a-b327-01f1131b01d0_tiffany_yataq_desti_mebeli_ag-530x350.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "BasePath": "_content/Web.UI",
+      "RelativePath": "AdminPanel/img/product/7815c371-f796-4d6a-b327-01f1131b01d0_tiffany_yataq_desti_mebeli_ag-530x350.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\7815c371-f796-4d6a-b327-01f1131b01d0_tiffany_yataq_desti_mebeli_ag-530x350.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\881c5b75-ecbe-4dd8-a192-1abe4d38071e_Screenshot (16).png",
+      "SourceId": "Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/881c5b75-ecbe-4dd8-a192-1abe4d38071e_Screenshot (16).png",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\881c5b75-ecbe-4dd8-a192-1abe4d38071e_Screenshot (16).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\9b4cafdc-1821-4d1d-9d6b-88e0196035c5_qonaq2.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\9b4cafdc-1821-4d1d-9d6b-88e0196035c5_qonaq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/9b4cafdc-1821-4d1d-9d6b-88e0196035c5_qonaq2.jfif",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\9b4cafdc-1821-4d1d-9d6b-88e0196035c5_qonaq2.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a0d631cc-eeeb-4d34-ab7c-57b44e1c60cd_yataq2.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a0d631cc-eeeb-4d34-ab7c-57b44e1c60cd_yataq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/a0d631cc-eeeb-4d34-ab7c-57b44e1c60cd_yataq2.jfif",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\a0d631cc-eeeb-4d34-ab7c-57b44e1c60cd_yataq2.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a1e3a32b-a6d5-44df-ae63-f15b7b3f968a_Screenshot (15).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a1e3a32b-a6d5-44df-ae63-f15b7b3f968a_Screenshot (15).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/a1e3a32b-a6d5-44df-ae63-f15b7b3f968a_Screenshot (15).png",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\a1e3a32b-a6d5-44df-ae63-f15b7b3f968a_Screenshot (15).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a4ad2240-bd9c-4708-8d66-1c9238233fc3_Screenshot (15).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\a4ad2240-bd9c-4708-8d66-1c9238233fc3_Screenshot (15).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/a4ad2240-bd9c-4708-8d66-1c9238233fc3_Screenshot (15).png",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\a4ad2240-bd9c-4708-8d66-1c9238233fc3_Screenshot (15).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\af4bb970-fa59-473a-a718-f5dafac97fb1_qonaq2.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\af4bb970-fa59-473a-a718-f5dafac97fb1_qonaq2.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/af4bb970-fa59-473a-a718-f5dafac97fb1_qonaq2.jfif",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\af4bb970-fa59-473a-a718-f5dafac97fb1_qonaq2.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\b916cd44-62b9-42c5-a2b9-f01a3d00a299_metbex.jfif",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\b916cd44-62b9-42c5-a2b9-f01a3d00a299_metbex.jfif",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/b916cd44-62b9-42c5-a2b9-f01a3d00a299_metbex.jfif",
       "AssetKind": "All",
@@ -1309,10 +1326,27 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\b916cd44-62b9-42c5-a2b9-f01a3d00a299_metbex.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\c5bc9969-8ff8-4277-a701-d2696e9bdfbd_Screenshot (15).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\bdc8631d-7174-450c-b3f7-c564cff244cd_nirvana-12a-530x350.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "BasePath": "_content/Web.UI",
+      "RelativePath": "AdminPanel/img/product/bdc8631d-7174-450c-b3f7-c564cff244cd_nirvana-12a-530x350.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\bdc8631d-7174-450c-b3f7-c564cff244cd_nirvana-12a-530x350.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\c5bc9969-8ff8-4277-a701-d2696e9bdfbd_Screenshot (15).png",
+      "SourceId": "Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/c5bc9969-8ff8-4277-a701-d2696e9bdfbd_Screenshot (15).png",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\c5bc9969-8ff8-4277-a701-d2696e9bdfbd_Screenshot (15).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\db8e2ab4-1a27-40bd-b7b9-e76e4a2de820_Screenshot (11).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\db8e2ab4-1a27-40bd-b7b9-e76e4a2de820_Screenshot (11).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/db8e2ab4-1a27-40bd-b7b9-e76e4a2de820_Screenshot (11).png",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\db8e2ab4-1a27-40bd-b7b9-e76e4a2de820_Screenshot (11).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\f88eccc7-0493-4a1f-a2c4-c27b56d0aef8_yataq_1-378x216.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\img\\product\\f88eccc7-0493-4a1f-a2c4-c27b56d0aef8_yataq_1-378x216.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/img/product/f88eccc7-0493-4a1f-a2c4-c27b56d0aef8_yataq_1-378x216.jpg",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\img\\product\\f88eccc7-0493-4a1f-a2c4-c27b56d0aef8_yataq_1-378x216.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\chart.js",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\chart.js",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/js/chart.js",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\dashboard.js",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\dashboard.js",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/js/dashboard.js",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\misc.js",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\misc.js",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/js/misc.js",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\js\\misc.js"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\js\\off-canvas.js",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/js/off-canvas.js",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\partials\\_footer.html",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\partials\\_footer.html",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/partials/_footer.html",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\partials\\_footer.html"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\partials\\_navbar.html",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\partials\\_navbar.html",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/partials/_navbar.html",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\partials\\_navbar.html"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\partials\\_sidebar.html",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\partials\\_sidebar.html",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/partials/_sidebar.html",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\partials\\_sidebar.html"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\PSD\\Purple_free dashboard.psd",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\PSD\\Purple_free dashboard.psd",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/PSD/Purple_free dashboard.psd",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\PSD\\Purple_free dashboard.psd"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_auth.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_auth.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_auth.scss",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_background.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_background.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_background.scss",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_demo.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_demo.scss",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_fonts.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_footer.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_footer.scss",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_functions.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_functions.scss",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_layouts.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_misc.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_misc.scss",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_navbar.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_reset.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_reset.scss",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_sidebar.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_typography.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_typography.scss",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_utilities.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\_variables.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/_variables.scss",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_badges.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_banners.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_banners.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_banners.scss",
       "AssetKind": "All",
@@ -1768,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_banners.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1785,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_buttons.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1802,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_cards.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1819,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1836,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_forms.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1853,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_icons.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1870,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_lists.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1887,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_preview.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_preview.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_preview.scss",
       "AssetKind": "All",
@@ -1904,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_preview.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\components\\_tables.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1921,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_animation.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1938,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_badges.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1955,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1972,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_buttons.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1989,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_cards.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -2006,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\mixins\\_misc.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -2023,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\style.scss",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\AdminPanel\\scss\\style.scss",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "AdminPanel/scss/style.scss",
       "AssetKind": "All",
@@ -2040,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPanel\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\.DS_Store",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\.DS_Store",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/.DS_Store",
       "AssetKind": "All",
@@ -2057,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\.vscode\\settings.json",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\.vscode\\settings.json",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/.vscode/settings.json",
       "AssetKind": "All",
@@ -2074,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\.vscode\\settings.json"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\.DS_Store",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\.DS_Store",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/.DS_Store",
       "AssetKind": "All",
@@ -2091,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\birbank-cards.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\birbank-cards.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/birbank-cards.png",
       "AssetKind": "All",
@@ -2108,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\birbank-cards.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\cart_image.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\cart_image.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/cart_image.jpg",
       "AssetKind": "All",
@@ -2125,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\cart_image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\cash.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\cash.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/cash.png",
       "AssetKind": "All",
@@ -2142,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\cash.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Dəhliz.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Dəhliz.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Dəhliz.png",
       "AssetKind": "All",
@@ -2159,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Dəhliz.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Döşəklər.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Döşəklər.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Döşəklər.png",
       "AssetKind": "All",
@@ -2176,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Döşəklər.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\embawood_logo.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\embawood_logo.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/embawood_logo.png",
       "AssetKind": "All",
@@ -2193,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\embawood_logo.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\icons8-discount-50.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\icons8-discount-50.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/icons8-discount-50.png",
       "AssetKind": "All",
@@ -2210,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\icons8-discount-50.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\icons8-ecommerce-64 (1).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\icons8-ecommerce-64 (1).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/icons8-ecommerce-64 (1).png",
       "AssetKind": "All",
@@ -2227,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\icons8-ecommerce-64 (1).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\icons8-shipping-50 (1).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\icons8-shipping-50 (1).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/icons8-shipping-50 (1).png",
       "AssetKind": "All",
@@ -2244,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\icons8-shipping-50 (1).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\katalog23.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\katalog23.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/katalog23.jpg",
       "AssetKind": "All",
@@ -2261,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\katalog23.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\katalogggg.pdf",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\katalogggg.pdf",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/katalogggg.pdf",
       "AssetKind": "All",
@@ -2278,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\katalogggg.pdf"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Masa və stullar.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Masa və stullar.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Masa və stullar.png",
       "AssetKind": "All",
@@ -2295,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Masa və stullar.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Mətbəx.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Mətbəx.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Mətbəx.png",
       "AssetKind": "All",
@@ -2312,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Mətbəx.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\product_image.jpg",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\product_image.jpg",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/product_image.jpg",
       "AssetKind": "All",
@@ -2329,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\product_image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Qonaq.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Qonaq.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Qonaq.png",
       "AssetKind": "All",
@@ -2346,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Qonaq.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Uşaq və gənc.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Uşaq və gənc.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Uşaq və gənc.png",
       "AssetKind": "All",
@@ -2363,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Uşaq və gənc.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\warranty (1).png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\warranty (1).png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/warranty (1).png",
       "AssetKind": "All",
@@ -2380,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\warranty (1).png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Yataq.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Yataq.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Yataq.png",
       "AssetKind": "All",
@@ -2397,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Yataq.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Yeni.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Yeni.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Yeni.png",
       "AssetKind": "All",
@@ -2414,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Yeni.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Yumşaq.png",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\images\\Yumşaq.png",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/images/Yumşaq.png",
       "AssetKind": "All",
@@ -2431,10 +2465,27 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\images\\Yumşaq.png"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\script.js",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\payment.js",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "BasePath": "_content/Web.UI",
+      "RelativePath": "MemberPanel/payment.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MemberPanel\\payment.js"
+    },
+    {
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\script.js",
+      "SourceId": "Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/script.js",
       "AssetKind": "All",
@@ -2448,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\MemberPanel\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\style.css",
+      "Identity": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\MemberPanel\\style.css",
       "SourceId": "Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\Web.UI\\wwwroot\\",
       "BasePath": "_content/Web.UI",
       "RelativePath": "MemberPanel/style.css",
       "AssetKind": "All",

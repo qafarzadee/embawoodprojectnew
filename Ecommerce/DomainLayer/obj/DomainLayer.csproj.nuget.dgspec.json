@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj": {}
+    "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj",
-        "packagesPath": "C:\\Users\\Vahab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vahab\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\obj\\",
+        "projectPath": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\Elgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elgun\\Desktop\\EmbawoodProject-master\\Ecommerce\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vahab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
